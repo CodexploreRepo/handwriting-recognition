@@ -3,6 +3,13 @@
 
 # 1. Dataset
 ## 1.1. List of Datasets
+### 1.1.1. Japanese
+- **Hiragana (ETL 8)**: the main alphabet. Each Hiragana has a corresponding Katakana
+- **Katakana (ETL 1)**: Katakana are used for foreign words.
+- **Kanji (ETL 8)**: Kanji are Chinese characters that were adopted in Japanese
+- Source for [ETL](http://etlcdb.db.aist.go.jp/): how to unpack using [Medium article](https://towardsdatascience.com/creating-a-japanese-handwriting-recognizer-70be12732889)
+- **Kuzushiji**: Old Japanese Hiragana, but much more complex
+  - Source:  [Kuzushiji-MNIST](http://codh.rois.ac.jp/kmnist/index.html.en#:~:text=KMNIST%20is%20a%20dataset%2C%20adapted,software%20from%20MNIST%20to%20KMNIST.)
 ## 1.2. Standarization
 - Some general rules for input image standarization
   - Gray Scale (Black and White): only 1 channel, no RGB (3 channel) 
