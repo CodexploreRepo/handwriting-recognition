@@ -24,6 +24,10 @@
 </p>
 
 
+# 2 Conv-RNN-CTC
+# 2.1. CTC
+- [Explanation of Connectionist Temporal Classification](https://sid2697.github.io/Blog_Sid/algorithm/2019/10/19/CTC-Loss.html)
+
 # Resources
 ## Conv-RNN-CTC network 
 - [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
