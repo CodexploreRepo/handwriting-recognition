@@ -22,3 +22,17 @@
 <img src="https://user-images.githubusercontent.com/64508435/165878389-8f9ff6dc-4b58-4187-b455-9a860e99dcd1.png" width="600" />
   <br> 10 classes of Kuzushiji-MNIST
 </p>
+
+
+# Resources
+## Conv-RNN-CTC network 
+- [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
+- [Handwritten Text Recognition with TensorFlow](https://github.com/githubharald/SimpleHTR)
+- [Pytorch Repo](https://github.com/jc639/pytorch-handwritingCTC?fbclid=IwAR2E0vm1A06tsZuctxJT0YtA_3PelmwHDeDe94ylwY_hCuB9axQsn84nNdg)
+
+## Japanese Multi Character Recognition
+- [State-of-the-art image classification networks for hand-written hiragana characters](https://medium.com/@j.l/optical-character-recognition-on-hiragana-4de5e432d4b8)
+
+## Region Proposal Network (RPN)
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (6 Jan 2016)](https://arxiv.org/pdf/1506.01497v3.pdf). Gives a state of the art at the time about RPNs. And explains how anchor
+based RPNs work
