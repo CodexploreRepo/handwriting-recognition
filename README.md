@@ -54,10 +54,10 @@ going on with RNNs.
 
 - [Image annotation tool][annotator] implemented by Oxford.
 
--[FullStackCourseMarch2019]: https://fullstackdeeplearning.com/march2019
--[tfTextGen]: https://www.tensorflow.org/text/tutorials/text_generation
--[BlogRNNSructure]: https://towardsdatascience.com/handwriting-to-text-conversion-using-time-distributed-cnn-and-lstm-with-ctc-loss-function-a784dccc8ec3
--[annotator]: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
+[FullStackCourseMarch2019]: https://fullstackdeeplearning.com/march2019
+[tfTextGen]: https://www.tensorflow.org/text/tutorials/text_generation
+[BlogRNNSructure]: https://towardsdatascience.com/handwriting-to-text-conversion-using-time-distributed-cnn-and-lstm-with-ctc-loss-function-a784dccc8ec3
+[annotator]: https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html
 
 ## Full Stack Deep Learning 
 - [Full Stack Deep Learning ](https://fullstackdeeplearning.com/spring2021/)
