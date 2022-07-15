@@ -1,5 +1,6 @@
 # Handwriting Recognition
 ![image](https://user-images.githubusercontent.com/64508435/172535844-3b632d6f-dc81-4090-b355-4fe168eb0091.png)
+![image](https://user-images.githubusercontent.com/64508435/179142824-5ada0321-ff4c-431a-89fe-b308a8c0cf56.png)
 
 
 # 1. Dataset
